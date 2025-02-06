@@ -6,6 +6,9 @@ Since its establishment in 2008, Airbnb has revolutionized the travel and hospit
 In this project, Python was utilized for data manipulation and analysis, with pandas and NumPy playing a crucial role in conducting Exploratory Data Analysis (EDA). Tableau was used for data visualization, transforming complex patterns and insights into interactive dashboards that illustrate pricing dynamics, neighborhood diversity, host contributions, and seasonal trends.
 
 The analysis begins with an examination of average accommodation costs across different regions, uncovering intricate pricing patterns and Airbnb user preferences. The goal is to provide valuable insights into pricing structures and regional variations, contributing to discussions on optimizing the Airbnb experience.  
+## Dashboard:
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/3ee06081-e602-444c-852f-03ef3820996b" />
+
 
 ## 🔍 Key Insights  
 - **Pricing Trends**: Manhattan has the highest average prices, while Bronx offers the most affordable stays.  
